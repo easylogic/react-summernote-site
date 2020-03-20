@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{0:function(e,t,n){n(456),n(598),n(1248),n(1249),n(1251),e.exports=n(1254)},1:function(e,t){},1248:function(e,t,n){"use strict";n.r(t);var o=n(104),s=n(455);o.addons.setConfig({theme:Object(s.create)({base:"light",brandTitle:"React Summernote",brandUrl:"https://react-summernote.easylogic.studio"})})}},[[0,1,2]]]);
